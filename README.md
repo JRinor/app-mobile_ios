@@ -47,8 +47,8 @@ L'écran de vérification des numéros de téléphone permet de vérifier la val
 
 ## Auteur
 
-- **Lucas Plateau** - Développeur de l'application.
-- **Rinor Januzi** - Développeur de l'application
+- **Lucas Plateau** - Développeur.
+- **Rinor Januzi** - Développeur.
 
 ---
 
